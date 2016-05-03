@@ -27,6 +27,7 @@ Include a nice font, in today’s world Helvetica is making a dominating appeara
 Readability is key! The great thing about the internet today is there are a ton of awesome bootstrap templates out there that you can download and make changes to suit the layout you want. Work smarter not harder.
 
 Basic layout will include the following elements:
+
 -	Header
 -	Navigation Bar
 -	Title
